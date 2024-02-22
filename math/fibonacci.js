@@ -5,7 +5,7 @@ function fibonacci(n) {
       fib[i] = fib[i - 1] + fib[i - 2];
     }
 
-    return fib;
+    return fib; 
 }
   
 console.log(fibonacci(2)) // [0,1]
