@@ -12,6 +12,6 @@ function isPrime(n) {
     return true;
 }
   
-console.log(isPrime(1)) // false
-console.log(isPrime(5)) // true
-console.log(isPrime(4)) // false
+console.log(isPrime(1)); // false
+console.log(isPrime(5)); // true
+console.log(isPrime(4)); // false
